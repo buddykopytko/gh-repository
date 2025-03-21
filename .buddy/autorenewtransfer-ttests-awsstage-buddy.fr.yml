@@ -1,0 +1,11 @@
+autorenewtransfer-ttests-awsstage-buddy.fr:
+  records:
+    '@':
+    - type: SOA
+      values: bison.qikdns.net. hostmaster.autorenewtransfer-ttests-awsstage-buddy.fr. 2025032101 10800 3600 604800 3600
+    - type: NS
+      values:
+      - bison.qikdns.net.
+      - lynx.qikdns.net.
+      - stork.qikdns.net.
+      - wolf.qikdns.net.
